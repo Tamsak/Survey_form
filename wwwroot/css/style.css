@@ -1,0 +1,23 @@
+fieldset{
+    width:250px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: rgb(76, 89, 175);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+}
+textarea{
+    width:100%;
+}
+
